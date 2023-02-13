@@ -22,6 +22,8 @@ Here a picture of an example of a final output of the exercise
 
 <img width="545" alt="region" src="https://user-images.githubusercontent.com/83819650/210228160-8d5d3a18-ead8-424d-a29b-2ced3853edf7.png">
 
+Based on that we can conclude that we have different prices in RJ and MG with 95% of confidence.
+
 
 ***Main goal of the project is to come to know if our average price differs based on the state or not if we cross this information with some indicators such as purchasing power we can draw some conclusions for commercial policies and also performance***.
 
